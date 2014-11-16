@@ -1,0 +1,4 @@
+reg
+===
+
+Microsoft Registry Files
