@@ -3,7 +3,10 @@ rem Description:  Refers to issues on x64 Windows; changes the Java memory heap 
 rem Usage:        N/A
 rem Notes:        https://blogs.oracle.com/dholmes/entry/inside_the_hotspot_vm_clocks
 
-rem
+
+
+
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware VDM\Node Manager\JVM]
 "ClassPath"="C:\\Program Files\\VMware\\VMware View\\Agent\\lib\\"
 "EnableJavaView"="true"
